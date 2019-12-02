@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(90deg, rgba(30,135,209,1) 0%, rgba(12,30,110,1) 45%, rgba(12,29,112,1) 84%);
+}
+
+h1{
+  padding: 50px;
+  font-family: serif;
+  color: blanchedalmond;
+}
+
+.input{
+  height: 50px;
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+button{
+  align-items: flex-end;
+}
+
+.button{
+  height: 50px;
+  width: 80px;
+}
+
+.record{
+ background: blanchedalmond;
+ width: 380px;
+}
+
+p{
+  border: 1px solid black;
+  background: blanchedalmond;
+  width: 380px;
+}
+
+
